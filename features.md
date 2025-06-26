@@ -1,4 +1,4 @@
-# Project Scorecard
+# Project features checklist
 
 ### Pins
 - [ ] View all Pins
